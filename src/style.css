@@ -984,3 +984,5 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
+*{cursor: url(https://proxy.everskies.com/a/https://cur.cursors-4u.net/others/oth-9/oth800.cur), auto !important;}
