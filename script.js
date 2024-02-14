@@ -26,6 +26,6 @@ yesBtn.addEventListener("click", () => {
   can1.style.display = "none";
 
   setTimeout(function() {
-    window.location.href = "../../valentine-day-card/dist/index.html"
+    window.location.href = "./valentine-day-card/dist/index.html"
   }, 1000)
 });
